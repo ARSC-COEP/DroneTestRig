@@ -1,0 +1,11 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-02032017-086586";"";
+"REFERENCE";"320/22 X";"";
+"TraceParts.PartVersion";"1.2.7";"";
+"TraceParts.InstanceId";"10-02032017-086586E2QUB96ST8G4868JJQPYIQDHY";"";
+"TraceParts.PartTitle";"Tapered roller bearings, single row";"";
+"SUPPLIER";"SKF";"";
+"DESIGN";"Tapered roller bearings, single row, Bore Ø 22 mm, Outside Ø 44 mm";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"MASS";"0.104";"";
